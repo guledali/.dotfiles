@@ -1,0 +1,43 @@
+// Place your key bindings in this file to override the defaults
+[
+    {
+      "key": "shift+enter",
+      "command": "extension.jumpy-word",
+      "when": "editorTextFocus"
+  },
+  {
+      "key": "Escape",
+      "command": "extension.jumpy-exit",
+      "when": "editorTextFocus && jumpy.isJumpyMode"
+  },
+  {
+    "key": "ctrl+alt+R ",
+    "command": "fileutils.renameFile",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+alt+D ",
+    "command": "fileutils.removeFile",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+alt+M ",
+    "command": "fileutils.moveFile",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+alt+F ",
+    "command": "extension.createFolder",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "shift+1",
+    "command": "workbench.action.gotoLine",
+    "when": "editorTextFocus"
+  },
+   {
+    "key": "cmd+\\",
+    "command": "extension.jumpy-word",
+    "when": "editorTextFocus"
+  }
+]

@@ -1,0 +1,15 @@
+{
+    "editor.minimap.renderCharacters": false,
+    "window.zoomLevel": 1,
+    "editor.fontFamily": "Menlo",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Material Theme Ocean",
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 18,
+    "emmet.includeLanguages": {
+        "erb": "html"
+    },
+    // "solargraph.commandPath": "/Users/guledali/.rbenv/shims/solargraph",
+    "editor.tabSize": 2
+}
