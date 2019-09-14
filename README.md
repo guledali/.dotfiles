@@ -1,5 +1,5 @@
 # Visual Studio Code settings
-This are my configurations for vscode.
+This is my configuration for vscode.
 
 
 
