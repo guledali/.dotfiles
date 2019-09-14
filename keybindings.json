@@ -39,5 +39,15 @@
     "key": "cmd+\\",
     "command": "extension.jumpy-word",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+k",
+    "command": "deleteWordRight",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+l",
+    "command": "editor.action.deleteLines",
+    "when": "editorTextFocus"
   }
 ]
