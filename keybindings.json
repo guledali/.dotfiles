@@ -31,7 +31,7 @@
     "when": "editorTextFocus"
   },
   {
-    "key": "shift+1",
+    "key": "shift+`",
     "command": "workbench.action.gotoLine",
     "when": "editorTextFocus"
   },
