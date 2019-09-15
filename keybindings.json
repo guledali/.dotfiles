@@ -49,5 +49,15 @@
     "key": "cmd+l",
     "command": "editor.action.deleteLines",
     "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+right",
+    "command": "cursorWordStartRight",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "cmd+left",
+    "command": "cursorWordStartLeft",
+    "when": "editorTextFocus"
   }
 ]
