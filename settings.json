@@ -8,8 +8,12 @@
     "editor.fontSize": 13,
     "editor.lineHeight": 18,
     "emmet.includeLanguages": {
+        "html.erb": "html",
         "erb": "html"
     },
+    "files.associations": {
+        "*.html.erb": "erb"
+      },
     // "solargraph.commandPath": "/Users/guledali/.rbenv/shims/solargraph",
     "editor.tabSize": 2
 }
