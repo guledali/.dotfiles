@@ -47,7 +47,7 @@
   },
   {
     "key": "cmd+l",
-    "command": "editor.action.deleteLines",
+    "command": "deleteAllRight",
     "when": "editorTextFocus"
   },
   {
