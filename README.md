@@ -39,6 +39,6 @@ Solargraph uses RuboCop for diagnostics by default. If your project has a .solar
      - activesupport
     domains: []
     reporters:
-     - typecheck:strict 
+     - typecheck
     require_paths: []
     max_files: 5000
