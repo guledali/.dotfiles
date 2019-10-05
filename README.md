@@ -10,10 +10,19 @@ This is my configuration for vscode.
 - [Create File & Folder : On The Go](https://marketplace.visualstudio.com/items?itemName=ritwickdey.create-file-folder&ssr=false)
 
 
-### Ruby Intellisense
+### Ruby Intellisense and CSS
 - [vscode-solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
+- [IntelliSense for CSS](https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion)
 
 #### Diagnostics (Linting)
+In you workspace add remote stylesheet like   
+```
+"html-css-class-completion.remoteStyleSheets": [
+		"https://stackpath.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css"
+	]
+``` 
+and set it to  `"css.fileExtensions": [ "css", "scss"]`
+<hr />
 
 To enable diagnostics, set the `solargraph.diagnostics` configuration to `true`.
 
