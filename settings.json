@@ -7,7 +7,7 @@
     "workbench.startupEditor": "newUntitledFile",
     "editor.fontSize": 13,
     "editor.lineHeight": 18,
-    "solargraph.diagnostics": true,
+    // "solargraph.diagnostics": true,
     "emmet.includeLanguages": {
         "html.erb": "html",
         "erb": "html"
