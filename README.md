@@ -13,6 +13,7 @@ This is my configuration for vscode.
 ### Ruby Intellisense and CSS
 - [vscode-solargraph](https://marketplace.visualstudio.com/items?itemName=castwide.solargraph)
 - [IntelliSense for CSS](https://marketplace.visualstudio.com/items?itemName=gencer.html-slim-scss-css-class-completion)
+- [Simple Ruby ERB](https://marketplace.visualstudio.com/items?itemName=vortizhe.simple-ruby-erb)
 
 #### Diagnostics (Linting)
 In you workspace add remote stylesheet like   
