@@ -13,7 +13,8 @@
         "erb": "html"
     },
     "files.associations": {
-        "*.html.erb": "erb"
+        "*.html.erb": "erb",
+        "*.js.erb": "javascript"
       },
     // "solargraph.commandPath": "/Users/guledali/.rbenv/shims/solargraph",
     "editor.tabSize": 2
